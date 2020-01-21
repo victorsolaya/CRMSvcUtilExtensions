@@ -1,0 +1,7 @@
+<filter>
+  <entities>
+    <entity>account</entity>
+    <entity>contact</entity>
+  </entities>
+</filter>
+
